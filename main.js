@@ -65,16 +65,17 @@ function snapSelectionToWord() {
       //document.getElementById("myText").innerText = ans + " IS_SENTENCE: " + sentence; 
       
       //document.write(ans + " ");
-      i++;
+      //i++;
       //}
     }
   }
   //const word = (selection.toString() || '').trim();
   //const word = (selection.toString() || '').trim();
 
-  var mySentence = getSentence(sel);  
+  //var mySentence = getSentence(sel);  
   //document.getElementById("myText").innerText = mySentence + " IS_SENTENCE: " + "done";   
-  alert(mySentence);
+  //alert(mySentence);
+  alert("hello");
   
   
 }
